@@ -1,4 +1,4 @@
-## Multidisciplinary expertise connected in data
+# 🪐 Multidisciplinary expertise connected in data🪐 
 
 # Experience
 Data Science full-time workplace-simlumation bootcamp @CodeAcademyBerlin
