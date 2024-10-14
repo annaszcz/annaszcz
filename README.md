@@ -1,5 +1,3 @@
-![github-header-image](https://github.com/user-attachments/assets/5a755a99-7080-4074-b1c8-304337e293fb)
-
 ## Experience
 Data Science full-time workplace-simlumation bootcamp @CodeAcademyBerlin
 MBA in Hult Intrnational Bussiness School
